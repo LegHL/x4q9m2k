@@ -1,0 +1,12 @@
+{
+  "name": "x4q9m2k-kinghub",
+  "version": "1.0.0",
+  "description": "Serviço de scripts Roblox ofuscados",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "CzmHenry",
+  "license": "MIT",
+  "dependencies": {}
+}
